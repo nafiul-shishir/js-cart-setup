@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: "Kaushan Script", cursive;
+  font-family: 'Poppins', sans-serif;
   background: var(--mainWhite);
   color: var(--mainBlack);
 }
